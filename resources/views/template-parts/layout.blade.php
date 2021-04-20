@@ -14,7 +14,7 @@
     <!-- Owl carousel -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.css">
-    
+
     <!-- Animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- Main Style -->
@@ -24,31 +24,23 @@
 
   </head>
   <body>
-          @include('layouts.header')
+          @include('template-parts.header')
 
           @yield("content")
-          
-          @include('layouts.services')
-          @include('layouts.about')
-          @include('layouts.features')
-          @include('layouts.team')
-          @include('layouts.pricing')
-          @include('layouts.testimonials')
-          @include('layouts.cta')
-          @include('layouts.contact')
-          @include('layouts.footer')
-          @include('layouts.toTop')
-          @include('layouts.jsIncludes')
-    
-          
 
-    
+
+          @include('template-parts.toTop')
+          @include('template-parts.jsIncludes')
+
+
+
+
       <!-- Preloader -->
       <!-- <div id="preloader">
         <div class="loader" id="loader-1"></div>
       </div> -->
       <!-- End Preloader -->
-    
-    
+
+
   </body>
 </html>

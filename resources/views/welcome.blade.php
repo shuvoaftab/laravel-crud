@@ -1,4 +1,4 @@
-@extends('layouts.layout')
+@extends('template-parts.layout')
 
 @section('content')
     <!-- Put Contents here now -->

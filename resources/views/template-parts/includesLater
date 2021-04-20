@@ -1,0 +1,11 @@
+<!--
+          @include('template-parts.services')
+          @include('template-parts.about')
+          @include('template-parts.features')
+          @include('template-parts.team')
+          @include('template-parts.pricing')
+          @include('template-parts.testimonials')
+          @include('template-parts.cta')
+          @include('template-parts.contact')
+          @include('template-parts.footer')
+-->
