@@ -52,7 +52,7 @@ class StudentController extends Controller
         $student->delete();
         return redirect()->route('students.index')->with('success', 'Deleted!');
 
-    
+
     }
 
 }
