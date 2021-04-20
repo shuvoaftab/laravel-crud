@@ -7,8 +7,8 @@
                 <h2 class="head-title">Laravel<br>Web Programming</h2>
                 <p>Web Programming Laravel Project for CRUD Operation. Extended with HTML Template and then Laravel Jetstream with it's Livewire Package</p>
                 <div class="header-button">
-                  <a href="#" class="btn btn-common">Login to Dashboard</i></a>
-                  <a href="#" class="btn btn-border video-popup">Register</i></a>
+                  <a href="login" class="btn btn-common">Login to Dashboard</i></a>
+                  <a href="register" class="btn btn-border video-popup">Register</i></a>
                 </div>
               </div>
             </div>
