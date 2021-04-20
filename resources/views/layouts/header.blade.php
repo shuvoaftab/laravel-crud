@@ -1,4 +1,4 @@
-
+@section('header')
     <!-- Header Area wrapper Starts -->
     <header id="header-wrap">
       <!-- Navbar Start -->
@@ -73,3 +73,5 @@
 
     </header>
     <!-- Header Area wrapper End -->
+
+
