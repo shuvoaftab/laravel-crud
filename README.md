@@ -1,6 +1,7 @@
 # Laravel CRUD and Templating
 Web Programming Project
 
-![Verson 1](https://github.com/shuvoaftab/laravel-crud/blob/main/laravelCrudV1.png?raw=true)
-![Template](https://github.com/shuvoaftab/laravel-crud/blob/main/laravelCrudTemplate1.png?raw=true)
+![Home](https://github.com/shuvoaftab/laravel-crud/blob/main/laravelCrudTemplate1.png?raw=true)
+![Login](https://github.com/shuvoaftab/laravel-crud/blob/main/laravelCrudTemplate2.png?raw=true)
+![Register](https://github.com/shuvoaftab/laravel-crud/blob/main/laravelCrudTemplate3.png?raw=true)
 
